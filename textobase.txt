@@ -1,0 +1,4 @@
+Um aplicativo feito para colaborar com o nosso meio ambiente, lutando pela causa de um mundo melhor. 
+O aplicativo funciona da seguinte forma, a cada acesso, uma árvore será plantada. O aplicativo será gratuito e com 
+um acesso facíl. 
+Esse aplicativo foi feito para todos os plublícos, incluindo crianças e idosos
