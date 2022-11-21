@@ -1,3 +1,48 @@
 header {
-    background: rgb(88, 90, 202);
+    background: rgb(99, 255, 195);
+}
+
+.caixa {
+    position: 
+    width: 940px;
+    margin: 0 auto;
+}
+
+h1 {
+    display: inline;
+}
+#logo{
+    margin-left: 150px;
+    display: inline;
+    width: 250px;
+    margin: 15px;
+
+}
+
+nav{ 
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 135px;
+}
+
+nav li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.produtos li {
+    display: inline-block;
+}
+
+.itens {
+    width: 300px;
 }
